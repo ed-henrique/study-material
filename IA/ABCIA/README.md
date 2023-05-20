@@ -53,7 +53,7 @@
 
 - [M4 - Aula 1](https://www.youtube.com/watch?v=qdATS-byvzs)
     - [Slides](./m4_aula1.pdf)
-- [M4 - Aula 2]()
+- [M4 - Aula 2](https://www.youtube.com/watch?v=XcxgNogVg-E)
     - [Slides](./m4_aula2.pdf)
 
 **Recursos Complementares:**
@@ -68,10 +68,10 @@
 
 ## Módulo 5 - Introdução a ML com Python - Parte II
 
-- [M5 - Aula 1]()
+- [M5 - Aula 1](https://www.youtube.com/watch?v=F76spsR-sSs)
     - [Slides](./m5_aula1.pdf)
     - [Colab](./m5_colab1.ipynb)
-- [M5 - Aula 2]()
+- [M5 - Aula 2](https://www.youtube.com/watch?v=cIVLLzt_jo4)
 
 **Recursos Complementares:**
 
@@ -80,11 +80,11 @@
 
 ## Módulo 6 - Hardware e Software para IA
 
-- [M6 - Aula 1 - Parte 1]()
-- [M6 - Aula 1 - Parte 2]()
+- [M6 - Aula 1 - Parte 1](https://www.youtube.com/watch?v=1YkNrr9dsMU)
+- [M6 - Aula 1 - Parte 2](https://www.youtube.com/watch?v=u39W-Hbep2A)
     - [Slides](./m6_aula1.pdf)
     - [Colab](./m6_colab1.ipynb)
-- [M6 - Aula 2]()
+- [M6 - Aula 2](https://www.youtube.com/watch?v=uN4Ar68y5TU)
     - [Slides](./m6_aula2.pdf)
 
 **Recursos Complementares:**
